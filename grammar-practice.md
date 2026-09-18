@@ -91,8 +91,68 @@ Clarify the following sentences by removing There is, and possibly rearranging, 
 4. distribute sharding function assigns keys.
 
 ## Topic 4: Short sentences
-What i learned: Short sentences communicate more powerfully than long sentences, and short sentences are usually easier to understand than long sentences. Focus each sentence on a single idea.
-Convert some long sentences to lists:
+What i learned: Short sentences communicate more powerfully than long sentences, and short sentences are usually easier to understand than long sentences. Focus each sentence on a single idea, thought, or concept. Just as statements in a program execute a single task, sentences should execute a single idea.
+
+### Examples
+For example, the following very long sentence contains multiple thought:
+
+SENTENCE1:
+The late 1950s was a key era for programming languages because IBM introduced Fortran in 1957 and John McCarthy introduced Lisp the following year, which gave programmers both an iterative way of solving problems and a recursive way.
+
+Breaking the long sentence into a succession of single-idea sentences yields the following result:
+
+SENTENCE2:
+The late 1950s was a key era for programming languages. IBM introduced Fortran in 1957. John McCarthy invented Lisp the following year. Consequently, by the late 1950s, programmers could solve problems iteratively or recursively.
+
+### My Practice
+
+SENTENCE1:
+In bash, use the if, then, and fi statements to implement a simple conditional branching block. the if statement evaluates an expression. the statement introduces a block of statements to run when the if expression is true. the fi statement marks the end of the conditional branching block. ( Result )
+
+Refactor the following sentences into something shorter and clearer. Make sure that your answer contains a list:
+To get started with the Frambus app, you must first find the app at a suitable store, pay for it using a valid credit or debit card, download it, configure it by assigning a value for the Foo variable in the /etc/Frambus file, and then run it by saying the magic word twice.
+
+## My Correction
+To get started with the Frambus app.
+1. you must first find the app at a suitable store.
+2. pay for it using a valid credit or debit card.
+3. download the app.
+4. configure it by assigning a value for the Foo variable in the /etc/Frambus file.
+5. run it by saying the magic word twice.
+
+SENTENCE2:
+KornShell was invented by David Korn in 1983, then a computer scientist at Bell Labs, as a superset of features, enhancements, and improvements over the Bourne Shell (which it was backwards compatible with), which was invented by Stephen Bourne in 1977 who was also a computer scientist at Bell Labs.
+
+## My Correction
+• Stephen Bourne invented the Bourne Shell in 1977.
+• David Korn invented the KornShell in 1983.
+
+## Topic 4: Short sentences ii
+Reduce subordinate clauses 
+What i learned: Subordinate clauses modify the idea in the main clause. As the name implies, subordinate clauses are less important than the main clause. 
+
+### Example
+Python is an interpreted programming language, which was invented in 1991.
+
+• Main clause: Python is an interpreted programming language
+• Subordinate clause: which was invented in 1991
+
+ You can usually identify subordinate clauses by the words that introduce them. The following list (by no means complete) shows common words that introduce subordinate clauses:
+• which
+• that
+• because
+• whose
+• until
+• unless
+• since
+
+Distinguish THAT from WHICH
+That and which both introduce subordinate clauses. What's the difference between them? Well, in some countries, the two words are pretty much interchangeable. Inevitably though, alert readers from the United States will angrily announce that you confused the two words again.
+
+In the United States, reserve WHICH for nonessential subordinate clauses, and use THAT for an essential subordinate clause that the sentence can't live without. 
+
+## Topic 5: Lists and tables
+
 
 
 
