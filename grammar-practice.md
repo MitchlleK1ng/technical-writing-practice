@@ -152,9 +152,74 @@ That and which both introduce subordinate clauses. What's the difference between
 In the United States, reserve WHICH for nonessential subordinate clauses, and use THAT for an essential subordinate clause that the sentence can't live without. 
 
 ## Topic 5: Lists and tables
+What i learned: Good lists can transform technical chaos into something orderly. Technical readers generally love lists. Therefore, when writing, seek opportunities to convert prose into lists.
+There are three typse of list
+• Bulleted lists
+• Numbered lists
+• Embedded lists
+Use a bulleted list for unordered items; use a numbered list for ordered items.
+• If you rearrange the items in a bulleted list, the list's meaning does not change.
+• If you rearrange the items in a numbered list, the list's meaning changes.
+
+# Example
+Today at work, I have to code three unit tests, write a design document, and review Janet's latest document. After work, I have to wash my car without using any water and then dry it without using any towels.
+Don't forget to introduce your list(s).
+
+Convert the paragraph into one or more lists:
+
+I must do the following tasks today:
+
+At Work.
+
+• Code three unit tests.
+• Write a design document.
+• Review Janet's latest document.
+
+After work.
+
+1. Wash my car without using any water.
+2. Dry my car without using any towels.
 
 
+### Start numbered list items with imperative verbs
+What i learned: Consider starting all items in a numbered list with an imperative verb. An imperative verb is a command, such as open or start.
 
+## Example
+The following is a parallel numbered list that begin with an imperative verb
+
+1. Download the Frambus app from Google Play or iTunes.
+2. Configure the Frambus app's settings.
+3. Start the Frambus app.
+
+### My Practice
+Make the following list parallel. Ensure that each element in the result list begins with an imperative verb:
+
+1. Stop Frambus
+2. The key configuration file is /etc/frambus. Open this file with an ASCII text editor.
+3. In this file, you will see a parameter named Carambola, which is currently set to the default value (32). Change this value to 64.
+4. When you are finished setting this parameter, save and close the configuration file
+5. now, start Frambus again.
+
+### My Corrections
+1. Stop Frambus.
+2. Open the key configuration file /etc/frambus with an ASCII text editor.
+3. Change the Carambola parameter from its default value (32) to 64.
+4. Save and close the configuration file.
+5. Restart Frambus.
+
+### Introduce each list and table
+
+We recommend introducing each list and table with a sentence that tells readers what the list or table represents. In other words, give the list or table context. Terminate the introductory sentence with a colon rather than a period.
+
+Although not a requirement, we recommend putting the word following into the introductory sentence. For example, consider the following introductory sentences:
+
+The following list identifies key performance parameters:
+
+Take the following steps to install the Frambus package:
+
+The following table summarizes our product's features against our key competitors' features:
+
+## Topic 6: Paragraphs
 
 
 
