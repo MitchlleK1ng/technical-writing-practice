@@ -233,6 +233,15 @@ PARAGRAPH 2
 The Pythagorean Theorem states that the sum of the squares of both legs of a right triangle is equal to the square of the hypotenuse. You can use the Pythagorean Theorem to measure diagonal distances. For example, if you know the length and width of a ping-pong table, you can use the Pythagorean Theorem to determine the diagonal distance.
 
 ## Topic 6: Audience
+What i learned: good documentation = knowledge and skills your audience needs to do a task − your audience's current knowledge and skills.
+Fit documentation to your audience
+Writing to meet your audience's needs requires unselfish empathy. You must create explanations that satisfy your audience's curiosity rather than your own.
+
+## Example 
+Define you audience and their field of operation, use it to determine what my audience needs to learn and document according to their range of understanding according to their field of operation and required implements.
+
+## Topic 7: Documents
+
 
 
 
