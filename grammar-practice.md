@@ -220,6 +220,20 @@ Take the following steps to install the Frambus package:
 The following table summarizes our product's features against our key competitors' features:
 
 ## Topic 6: Paragraphs
+What i learned: Write great opening sentence. an opening sentence is the most important sentence in any paragraph.
+Good opening sentences establish the paragraph's central point.
+
+## Example 
+Focus each paragraph on a single topic: A paragraph should represent an independent unit of logic. Restrict each paragraph to the current topic. Don't describe what will happen in a future topic or what happened in a past topic.
+
+PARAGRAPH 1
+The Pythagorean Theorem states that the sum of the squares of both legs of a right triangle is equal to the square of the hypotenuse. The perimeter of a triangle is equal to the sum of the three sides. You can use the Pythagorean Theorem to measure diagonal distances. For example, if you know the length and width of a ping-pong table, you can use the Pythagorean Theorem to determine the diagonal distance. To calculate the perimeter of the ping-pong table, sum the length and the width, and then multiply that sum by 2.
+
+PARAGRAPH 2
+The Pythagorean Theorem states that the sum of the squares of both legs of a right triangle is equal to the square of the hypotenuse. You can use the Pythagorean Theorem to measure diagonal distances. For example, if you know the length and width of a ping-pong table, you can use the Pythagorean Theorem to determine the diagonal distance.
+
+## Topic 6: Audience
+
 
 
 
