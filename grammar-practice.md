@@ -241,10 +241,36 @@ Writing to meet your audience's needs requires unselfish empathy. You must creat
 Define you audience and their field of operation, use it to determine what my audience needs to learn and document according to their range of understanding according to their field of operation and required implements.
 
 ## Topic 7: Documents
+What i learned:State your document's scope. A good document begins by defining its scope. (This document describes the design of Project Frambus.)
+A better document additionally defines its non-scope—the topics not covered that the target audience might reasonably expect your document to cover. For example: This document does not describe the design for the related technology, Project Froobus.
 
+# State your audience: 
+A good document explicitly specifies its audience. For example:
 
+This document is aimed at the following audiences.
+• software engineers
+• program managers
 
+# Summarize key points at the start:
+Engineers and scientists are busy people who won't necessarily read all 76 pages of your document. Imagine that your peers might only read the first paragraph of your document. Therefore, ensure that the start of your document answers your readers' essential questions.
 
+Professional writers focus considerable energy on page one to increase the odds of readers making it to page two. However, the start of any long document is the hardest page to write. Be prepared to revise page one many times.
+
+# Compare and contrast
+In your career, no matter how creative you are, you will author precious few documents containing truly revolutionary ideas. Most of your work will be evolutionary, building on existing technologies and concepts. Therefore, compare and contrast your ideas with concepts that your audience already understands. For example:
+
+This new app is similar to the Frambus app, except with much better graphics.
+Or:
+The Froobus API handles the same use cases as the Frambus API, except that the Froobus API is much easier to use.
+
+# Write for your audience:
+Define your audience's needs
+Answering the following questions helps you determine what your document should contain:
+
+Who is your target audience?
+What is your target audience's goal? Why are they reading this document?
+What do your readers already know before they read your document?
+What should your readers know or be able to do after they read your document?
 
    
 
