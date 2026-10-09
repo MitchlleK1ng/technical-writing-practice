@@ -27,7 +27,95 @@ To help your audience understand your document, apply these basic editing princi
 • Break long sentences into shorter sentences or lists
 
 # Topic 2:  Organizing large documents
+What i learned: Organize a document
+This section suggests some techniques for planning a longer document, including creating an outline and drafting an introduction.
 
+### Outline a document
+Starting with a structured, high-level outline can help you group topics and determine where more detail is needed. The outline helps you move topics around before you get down to writing.
+
+## Outline Exercise Practice 
+
+Review and update the following high-level outline of an introduction to a long tutorial. To solve this exercise, you can do any of the following:
+• Rearrange the existing topics.
+• Add any missing topics you feel should be in an introduction.
+• Remove any topics you feel are irrelevant for an introduction
+
+## The history of the project
+
+Describes the history of the development of the project.
+
+## Prerequisites
+
+Lists concepts the reader should be familiar with prior to starting, as well as
+any software or hardware requirements.
+
+## The design of the system
+
+Describes how the system works.
+
+## Audience
+
+Describes who the tutorial is aimed at.
+
+## Setting up the tutorial
+
+Explains how to configure your environment to follow the tutorial.
+
+## Troubleshooting
+
+Explains how to diagnose and solve potential problems that might occur when
+working through the tutorial.
+
+## Useful terminology
+
+Lists definitions of terms that the reader needs to know to follow the
+tutorial.
+
+### My Correction
+
+## Audience
+
+Describes who the tutorial is aimed at.
+
+## Prerequisites
+
+Lists concepts the reader should be familiar with prior to starting, as well as
+any software or hardware requirements.
+
+## Setting up the tutorial
+
+Explains how to configure your environment to follow the tutorial.
+
+## Useful terminology
+
+Lists definitions of terms that the reader needs to know to follow the
+tutorial.
+
+## Provide text under each heading
+
+Most readers appreciate at least a brief introduction under each heading to provide some context. Avoid placing a level three heading immediately after a level two heading, as in the following example:
+## Creating the site 
+### Running the carambola command
+
+In this example, a brief introduction can help orient the reader:
+## Creating the site
+
+To create the site, you run the `carambola` command-line tool. The command
+displays a series of prompts to help you configure the site.
+
+### Running the carambola command
+
+----
+## Disclose information progressively
+
+Learning new concepts, ideas, and techniques can be a rewarding experience for many readers who are comfortable reading through documentation at their own pace. However, being confronted with too many new concepts and instructions too quickly can be overwhelming. Readers are more likely to be receptive to longer documents that progressively disclose new information to them when they need it. The following techniques can help you incorporate progressive disclosure in your documents:
+
+Where possible, try introducing new terminology and concepts near the instructions that rely on them.
+Break up large walls of text. To avoid multiple large paragraphs on a single page, aim to introduce tables, diagrams, lists, and headings where appropriate.
+Break up large series of steps. If you have a particularly long list of complicated steps, try to re-arrange them into shorter lists that explain how to complete sub-tasks.
+Start with simple examples and instructions, and add progressively more interesting and complicated techniques. For example, in a tutorial for creating forms, start by explaining how to handle text responses, and then introduce other techniques to handle multiple choice, images, and other response types.
+
+# Topic 3: Illustrating
 
 
 
