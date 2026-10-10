@@ -71,8 +71,6 @@ working through the tutorial.
 Lists definitions of terms that the reader needs to know to follow the
 tutorial.
 
-### My Correction
-
 ## Audience
 
 Describes who the tutorial is aimed at.
@@ -117,5 +115,8 @@ Start with simple examples and instructions, and add progressively more interest
 
 # Topic 3: Illustrating
 
+What i learned:  Good graphics engage readers in ways that text cannot. providing any graphics, good or bad—makes readers like the document more; however, only instructive graphics help readers learn. This unit suggests a few ways to help you create figures truly worth a thousand words.
+
+# Topic 4: Creating sample code
 
 
